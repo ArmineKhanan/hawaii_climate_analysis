@@ -13,4 +13,4 @@ There is a bulleted list that addresses the three key differences in weather bet
 ## Summary
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. 
-<imb src="https://github.com/ArmineKhanan/hawaii_climate_analysis/blob/main/images/June%20prcp.png" width ="400"> <img src="https://github.com/ArmineKhanan/hawaii_climate_analysis/blob/main/images/December%20prcp.png" width="400" />
+<img src="https://github.com/ArmineKhanan/hawaii_climate_analysis/blob/main/images/June%20prcp.png" width ="400"> <img src="https://github.com/ArmineKhanan/hawaii_climate_analysis/blob/main/images/December%20prcp.png" width="400" />
