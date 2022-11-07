@@ -18,9 +18,12 @@ From the summary output for two months on can conclude the following:
 2. Tempreture fluctuations are slightly higher in Desember with an std of 3.75°F
 3. June is a drier month than December, yet, according to our data not significantly.
 
-[June temperature summary](https://github.com/ArmineKhanan/hawaii_climate_analysis/blob/main/images/June%20temp.png ) 
+[June temperature summary](https://github.com/ArmineKhanan/hawaii_climate_analysis/blob/main/images/June%20temp.png) 
+
 [December temperature summary](https://github.com/ArmineKhanan/hawaii_climate_analysis/blob/main/images/December%20temp.png)
+
 [June precipitation summary](https://github.com/ArmineKhanan/hawaii_climate_analysis/blob/main/images/June%20prcp.png)
+
 [December precipitation summary](https://github.com/ArmineKhanan/hawaii_climate_analysis/blob/main/images/December%20prcp.png)
 
 ## Summary
