@@ -21,7 +21,7 @@ From the summary output for two months on can conclude the following:
 [June temperature summary]("https://github.com/ArmineKhanan/hawaii_climate_analysis/blob/main/images/June%20temp.png" ) 
 [December temperature summary]("https://github.com/ArmineKhanan/hawaii_climate_analysis/blob/main/images/December%20temp.png")
 [June precipitation summary]("https://github.com/ArmineKhanan/hawaii_climate_analysis/blob/main/images/June%20prcp.png")
-[December precipitation summary]"https://github.com/ArmineKhanan/hawaii_climate_analysis/blob/main/images/December%20prcp.png" )
+[December precipitation summary]("https://github.com/ArmineKhanan/hawaii_climate_analysis/blob/main/images/December%20prcp.png" )
 
 ## Summary
 To make conclusions based on our data, let's asume that th pleasant temperatures in Hawaii falls in the range from 73°F to 86°F. This would mean that June will be an absolutle favorable month for our business. It could also be assumed that December will bring some kind of profit as well taking into account that 75% of December odservations show temperature above 74°F. 
